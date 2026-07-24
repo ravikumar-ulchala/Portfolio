@@ -84,28 +84,32 @@ Developing technical SOPs, operational documentation, network diagrams, and impl
 
 Participating in 24x7 production support, incident management, problem management, and change management processes while meeting strict SLA requirements.
 
-Network Security Specialist / Security Administrator
-Akshara Enterprises India Pvt. Ltd. Projects: TGSWAN, TGSCAN & State DR Data Center (Government of Telangana) May 2024 - May 2026 | Hyderabad
-TGSWAN (Telangana Statewide Area Network)
-Key Responsibilities & Achievements
-•
+**Network Security Specialist / Security Administrator**
+
+**Akshara Enterprises India Pvt. Ltd. Projects: TGSWAN, TGSCAN & State DR Data Center (Government of Telangana) May 2024 - May 2026 | Hyderabad**
+**TGSWAN (Telangana Statewide Area Network)**
+
+**Key Responsibilities & Achievements**
+
 Served as Technical Manager and Team Lead, overseeing enterprise network, security, and infrastructure operations.
-•
+
 Managed and administered Check Point, Fortinet, Palo Alto, Cisco, and Sophos Next-Generation Firewalls.
-•
+
 Designed and implemented multi-ISP WAN redundancy using BGP, OSPF, Static Routing, and Policy-Based Routing (PBR).
-•
+
 Achieved 99.9%+ network availability through proactive monitoring and optimized network architecture.
-•
+
 Successfully led the IGRS network and firewall migration project, improving network performance and service reliability.
-•
+
 Implemented ISP failover, traffic engineering, link balancing, and WAN optimization strategies.
-•
+
 Performed advanced troubleshooting of routing, switching, firewall, and ISP-related issues.
-•
+
 Coordinated with OEMs, ISPs, vendors, and government stakeholders for project implementation and support.
-TGSCAN (Telangana Secretariat Campus Area Network)
-Key Responsibilities & Achievements
+
+**TGSCAN (Telangana Secretariat Campus Area Network)**
+
+**Key Responsibilities & Achievements**
 •
 Managed Campus Area Network (CAN) and State Data Center connectivity for critical government services.
 •
@@ -255,55 +259,6 @@ Reading Technology Articles, Gaming
 DECLARATION
 I hereby declare that the information provided above is true and correct to the best of my knowledge and belief.
 Place: Hyderabad Ravi Kumar Ulchala Date:
-
-
- 👨‍💻 Professional Summary
- 
-Network & Security Engineer with 9+ years of experience in designing, implementing, and managing 
-enterprisegrade network infrastructures and security solutions.  
-Handson expertise in Firewalls, Data Center Networks, SDWAN, Cloud Security, and VAPT.  
-Experienced in zerodowntime data center migrations and governmentscale environments.
-
-
-
- 🧠 Core Skills
- 
- Firewalls: FortiGate, Check Point, Palo Alto, Cisco ASA, Sophos, SonicWall, pfSense
- Switching & Routing: Cisco, Cisco Nexus 9K, Aruba, HP, Dell, Arista, Juniper
- Wireless: Cisco & Aruba Controllers, Enterprise APs
- Security: VAPT, WAPT, API Security, OWASP Top 10
- Cloud: AWS, Azure
- Monitoring: SolarWinds, PRTG, Nagios, CA Spectrum
- Virtualization: VMware, HyperV, Citrix
- Servers & Storage: HP, Dell, NetApp, StorTrends
-
-
-
- 🏢 Experience Highlights
- 
- Tier4 Data Center operations (Government of Telangana – TSWAN & TSCAN)
- Data Center migration without downtime
- Firewall HA, VPNs, SDWAN, ISP redundancy
- Security hardening & penetration testing
- Enterprise network monitoring & automation
-
-
-
- 📜 Certifications
- 
- CEH – Certified Ethical Hacker
- CCNA – Cisco Certified Network Associate
- Multiple Firewall Vendor Certifications
-
-
-
- 📂 Portfolio Repositories
- 
-🔹 [Firewall Configurations]()  
-🔹 [Data Center Network Design]()  
-🔹 [SDWAN Architecture]()  
-🔹 [Network Automation]()  
-🔹 [VAPT & Security Assessments]()
 
 
 
