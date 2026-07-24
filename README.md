@@ -1,5 +1,5 @@
 Ravi Kumar Ulchala
-
+Security Engineering, Network Engineering, Cloud Engineering and software Engineering 
 Email id.ravikumar40003@gmail.com
 
 Hyderabad.
@@ -11,7 +11,7 @@ Senior Network & Security Specialist with 9+ years of experience in designing, i
 
 Previously contributed to large-scale projects including TGSWAN, TGSCAN, and IGRS, supporting 500+ distributed sites with highly available, secure, and resilient network infrastructures. Hands-on experience with Check Point, Fortinet, Palo Alto, Cisco Firepower, F5 BIG-IP, and Cisco technologies, along with BGP, OSPF, SD-WAN, IPSec/SSL VPN, High Availability (HA), and Data Center networking.
 
-Skilled in firewall management, network security, Zero Trust, WAF, IPS, threat prevention, incident response, infrastructure migration, and L3 troubleshooting. Proven ability to deliver secure, scalable, and high-performance enterprise network solutions while ensuring maximum uptime and operational excellence.
+Skilled in  firewall management, network security, Zero Trust, WAF, IPS, threat prevention, incident response, infrastructure migration, and L3 troubleshooting. Proven ability to deliver secure, scalable, and high-performance enterprise network solutions while ensuring maximum uptime and operational excellence.
 Certifications: CEH, CCNA, Fortinet Security Certifications, and multiple network and cybersecurity certifications.
 
 Core Skills:
