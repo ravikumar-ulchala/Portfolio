@@ -23,31 +23,35 @@ Firewalls: Palo Alto, Fortinet, Checkpoint, Sophos, Cisco, SonicWall, pfSense
 SASE: Netskope, Zscaler and SDWAN
 
 Server Administration: Windows Server, Linux Server, Active Directory, DNS
-•
+
 Switches and Routers: Cisco, Aruba, HP, Dell, Arista, Cisco Nexus, Meraki switches
-•
+
 Network Access Control: Cisco ISE, ClearPass
-•
+
 Wireless Controllers: Cisco, Aruba
-•
+
 Access Points: Cisco, Aruba, Engenius, Ubiquiti, D-Link, Meraki, Cambium,Meraki Access Points.
-•
+
 Network Monitoring Tools: SolarWinds, Nagios, OneClick and Manage engine.
-•
+
 Network Automation Tools: DNAC
-•
+
 Virtualization Technologies: VMware, Hyper-V, Citrix
-•
+
 Servers and Storage: HP, Dell, NetApp, StorTrends
-•
+
 Cloud Security: AWS and Azure.
-•
+
 Load Balancers: F5, peep link and Array.
-•
+
 Vulnerability and Penetration Testing: VAPT, WAPT, MAPT, NPT, API Penetration Testing
+
 PROFESSIONAL EXPERIENCE
+
 L3 Network & Security Engineer
+
 Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad
+
 Key Responsibilities & Achievements
 •
 Served as Technical Manager and Team Lead, overseeing enterprise network, security, and infrastructure operations.
