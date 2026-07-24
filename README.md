@@ -50,39 +50,40 @@ Vulnerability and Penetration Testing: VAPT, WAPT, MAPT, NPT, API Penetration Te
 
 _L3 Network & Security Engineer_
 
-**Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad
+**Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad**
 
-Key Responsibilities & Achievements**
-•
+**Key Responsibilities & Achievements**
+
 Served as Technical Manager and Team Lead, overseeing enterprise network, security, and infrastructure operations.
-•
+
 Managing enterprise-wide Network and Security Operations for Hyderabad Metro Rail's mission-critical IT infrastructure.
-•
+
 Manage enterprise Data Center operations ensuring high availability and business continuity.
-•
+
 Administer Fortinet, Palo Alto, Check Point, and Cisco Firepower NGFWs.
-•
+
 Configure and maintain F5 BIG-IP LTM, ASM/AWAF, SSL Offloading, and GSLB solutions.
-•
+
 Manage Cisco Nexus, Catalyst, and ACI-based Data Center infrastructure.
-•
+
 Support SD-WAN, MPLS, BGP, OSPF, EIGRP, and enterprise WAN environments.
-•
+
 Deploy and troubleshoot Site-to-Site and Remote Access IPSec VPN solutions.
-•
+
 Manage WAF, SSL Certificates, Reverse Proxy, and Application Publishing services.
-•
+
 Conduct Data Center migrations, DR drills, capacity planning, and infrastructure upgrades.
-•
+
 Lead 24x7 Network & Security Operations while ensuring SLA compliance.
-•
+
 Leading infrastructure upgrades, security enhancements, change implementations, and performance optimization initiatives.
-•
+
 Collaborating with server, cloud, application, and cybersecurity teams to ensure seamless service delivery.
-•
+
 Developing technical SOPs, operational documentation, network diagrams, and implementation procedures.
-•
+
 Participating in 24x7 production support, incident management, problem management, and change management processes while meeting strict SLA requirements.
+
 Network Security Specialist / Security Administrator
 Akshara Enterprises India Pvt. Ltd. Projects: TGSWAN, TGSCAN & State DR Data Center (Government of Telangana) May 2024 - May 2026 | Hyderabad
 TGSWAN (Telangana Statewide Area Network)
