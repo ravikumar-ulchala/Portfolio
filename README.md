@@ -7,7 +7,7 @@ Email id.ravikumar40003@gmail.com
 Hyderabad.
 
 
-Professional Summary: (9+ Years of Experience)
+**Professional Summary: (9+ Years of Experience)**
 
 Senior Network & Security Specialist with 9+ years of experience in designing, implementing, and managing enterprise, government, and transportation network infrastructures. Currently working as an L3 Network & Security Engineer on the HMRL Project, managing enterprise network operations, Data Center, SASE, F5 Load Balancers, next-generation firewalls, routing, switching, VPNs, and critical production environments.
 
@@ -16,7 +16,7 @@ Previously contributed to large-scale projects including TGSWAN, TGSCAN, and IGR
 Skilled in  firewall management, network security, Zero Trust, WAF, IPS, threat prevention, incident response, infrastructure migration, and L3 troubleshooting. Proven ability to deliver secure, scalable, and high-performance enterprise network solutions while ensuring maximum uptime and operational excellence.
 Certifications: CEH, CCNA, Fortinet Security Certifications, and multiple network and cybersecurity certifications.
 
-Core Skills:
+**Core Skills:**
 
 Firewalls: Palo Alto, Fortinet, Checkpoint, Sophos, Cisco, SonicWall, pfSense
 
@@ -46,13 +46,13 @@ Load Balancers: F5, peep link and Array.
 
 Vulnerability and Penetration Testing: VAPT, WAPT, MAPT, NPT, API Penetration Testing
 
-PROFESSIONAL EXPERIENCE
+**PROFESSIONAL EXPERIENCE**
 
-L3 Network & Security Engineer
+_L3 Network & Security Engineer_
 
-Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad
+****Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad
 
-Key Responsibilities & Achievements
+Key Responsibilities & Achievements****
 •
 Served as Technical Manager and Team Lead, overseeing enterprise network, security, and infrastructure operations.
 •
