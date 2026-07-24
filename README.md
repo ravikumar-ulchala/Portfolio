@@ -50,9 +50,9 @@ Vulnerability and Penetration Testing: VAPT, WAPT, MAPT, NPT, API Penetration Te
 
 _L3 Network & Security Engineer_
 
-****Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad
+**Hyderabad Metro Rail Limited (HMRL Project) Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad
 
-Key Responsibilities & Achievements****
+Key Responsibilities & Achievements**
 •
 Served as Technical Manager and Team Lead, overseeing enterprise network, security, and infrastructure operations.
 •
