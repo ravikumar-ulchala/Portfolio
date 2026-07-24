@@ -1,171 +1,217 @@
 # 👋 Hi, I'm Ravi Kumar Ulchala
 
-# Experienced Security Engineer | Network & Security Architect | Cloud Networking & Security Specialist | Data Center, SD-WAN & SASE Expert
+## Software Engineer | Network Engineer | Cloud Engineer | Security Engineer
 
-Welcome to my GitHub portfolio.
+I am a technology professional with over a decade of experience in designing, building, securing, automating, and managing enterprise IT infrastructure across government, transportation, telecom, and enterprise environments.
 
-With over a decade of experience in **Enterprise Networking, Cybersecurity, Cloud Networking, Cloud Security, Data Center Infrastructure, Server & Storage Technologies, Enterprise Architecture, and Digital Transformation**, I specialize in designing, implementing, securing, automating, and managing mission-critical IT infrastructure across government, transportation, telecom, and enterprise environments.
-
-My expertise spans the complete infrastructure lifecycle—from architecture and solution design to deployment, migration, operations, automation, optimization, disaster recovery, governance, and security. I am passionate about building secure, scalable, highly available, and future-ready infrastructures using modern technologies including **Zero Trust, SASE, SD-WAN, Cloud-Native Security, AI & GenAI Security, DevSecOps, Infrastructure as Code (IaC), Automation, and Enterprise Architecture**.
-
-My technical expertise includes Enterprise Network Architecture, Cloud Networking & Security, Hybrid & Multi-Cloud Connectivity, Data Center Design, Disaster Recovery, Business Continuity, Governance, Risk & Compliance (GRC), Infrastructure Modernization, Automation, and Digital Transformation initiatives.
+My expertise spans **Software Engineering, Network Engineering, Cloud Engineering, Security Engineering, Data Center Infrastructure, Enterprise Architecture, DevSecOps, Platform Engineering, and Infrastructure Automation**. I enjoy solving complex technical challenges by combining software development, cloud technologies, networking, cybersecurity, and automation to build scalable, resilient, and secure systems.
 
 ---
 
-# 💼 Professional Experience
+## 💻 Software Engineering
 
-## L3 Network & Security Engineer
+I build software and automation solutions that improve operational efficiency, simplify infrastructure management, and accelerate digital transformation.
 
-**Hyderabad Metro Rail Limited (HMRL Project)**
-**Alchemy Techsol India Pvt. Ltd.**
-**June 2026 – Present | Hyderabad, India**
+### Areas of Expertise
 
-### Role Overview
-
-Currently working as an L3 Network & Security Engineer responsible for designing, implementing, securing, and operating Hyderabad Metro Rail's enterprise network and cybersecurity infrastructure. I lead mission-critical infrastructure operations, ensuring high availability, performance, resilience, and compliance across the organization's IT ecosystem.
-
-### Key Responsibilities
-
-* Serve as Technical Manager and Team Lead for enterprise Network, Security, and Infrastructure Operations.
-* Manage mission-critical Data Center infrastructure with high availability and disaster recovery capabilities.
-* Administer and manage enterprise security platforms including Fortinet, Palo Alto, Check Point, Cisco Firepower, and F5 BIG-IP.
-* Design, implement, and optimize enterprise routing, switching, SD-WAN, MPLS, BGP, OSPF, and EIGRP environments.
-* Configure and manage Site-to-Site IPSec VPNs, Remote Access VPNs, SSL VPNs, and secure remote connectivity.
-* Manage Web Application Firewall (WAF), SSL certificates, Reverse Proxy, Application Publishing, and Load Balancing services.
-* Administer Cisco Nexus, Catalyst, and Cisco ACI-based Data Center infrastructure.
-* Lead Data Center migrations, Disaster Recovery (DR) drills, infrastructure upgrades, and capacity planning initiatives.
-* Ensure 24×7 Network Operations Center (NOC) and Security Operations Center (SOC) support while maintaining SLA compliance.
-* Collaborate with Cloud, Server, Storage, Application, and Cybersecurity teams for integrated service delivery.
-* Develop High-Level Designs (HLD), Low-Level Designs (LLD), Standard Operating Procedures (SOPs), implementation guides, and network architecture documentation.
-* Participate in Incident Management, Change Management, Problem Management, Root Cause Analysis (RCA), and Performance Optimization.
+* Python Development
+* Java Fundamentals
+* Go (Learning)
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* REST API Development
+* Microservices
+* System Design
+* Design Patterns
+* Git & GitHub
+* CI/CD Pipelines
+* DevOps
+* DevSecOps
+* Infrastructure as Code (IaC)
+* Software Testing
+* Automation Frameworks
 
 ### Technologies
 
-Fortinet • Palo Alto • Check Point • Cisco Firepower • F5 BIG-IP LTM • ASM/AWAF • Cisco Nexus • Cisco Catalyst • Cisco ACI • MPLS • SD-WAN • BGP • OSPF • EIGRP • IPSec VPN • SSL VPN • WAF • DNS • DHCP • Active Directory • VMware • Linux • Windows Server • High Availability • Disaster Recovery
+Python • Java • Git • GitHub • REST APIs • JSON • YAML • Docker • Kubernetes • Jenkins • GitHub Actions • Terraform • Ansible
 
 ---
 
-## Network Security Specialist / Security Administrator
+## 🌐 Network Engineering
 
-**Akshara Enterprises India Pvt. Ltd.**
-**Projects:** Telangana State Wide Area Network (TGSWAN), TGSCAN, Telangana State Disaster Recovery (DR) Data Center
-**May 2024 – May 2026 | Hyderabad, India**
+Experienced in designing and operating enterprise, campus, WAN, ISP, and Data Center networks.
 
-### Role Overview
-
-Worked as a Network Security Specialist supporting the Government of Telangana's statewide network and Data Center infrastructure. Responsible for enterprise network architecture, security administration, WAN connectivity, firewall management, monitoring, incident response, and digital transformation initiatives across multiple government departments.
-
-### Major Responsibilities
-
-* Served as Technical Manager and Team Lead for statewide enterprise network and security operations.
-* Managed enterprise Data Center and Disaster Recovery infrastructure for critical government services.
-* Designed and maintained secure WAN connectivity across multiple government departments and district locations.
-* Configured and managed enterprise firewalls, VPNs, IPS/IDS, and security policies.
-* Implemented routing and switching technologies including BGP, OSPF, MPLS, VLANs, and redundancy protocols.
-* Supported SD-WAN deployment and secure branch connectivity.
-* Managed Internet gateways, NAT policies, Load Balancing, and High Availability configurations.
-* Performed firewall migrations, firmware upgrades, and security hardening.
-* Conducted Vulnerability Assessment, security audits, policy reviews, and compliance activities.
-* Coordinated Disaster Recovery testing, failover validation, backup verification, and business continuity planning.
-* Produced architecture diagrams, implementation plans, SOPs, KT documents, and operational runbooks.
-* Worked closely with application, database, server, storage, and cloud teams during infrastructure deployment and migration projects.
-
-### Technologies
-
-Fortinet • Check Point • Cisco • BGP • OSPF • MPLS • SD-WAN • IPSec VPN • SSL VPN • VLAN • STP • DNS • DHCP • Linux • Windows Server • VMware • Monitoring Tools • Network Security • Disaster Recovery • Government Data Center Operations
-
----
-
-# 🚀 Technical Expertise
-
-### Enterprise Networking
+### Core Expertise
 
 * Enterprise LAN/WAN
-* Campus Network Architecture
+* Campus Network Design
 * Data Center Networking
-* Routing & Switching
+* Software Defined Networking (SDN)
+* Software Defined Data Center (SDDC)
+* SD-WAN
+* MPLS
 * BGP
 * OSPF
-* MPLS
-* SD-WAN
-* EVPN-VXLAN
+* EIGRP
 * IPv4 / IPv6
+* VLAN
+* STP
+* VRRP / HSRP
+* EVPN-VXLAN
+* Cisco ACI
+* Wireless LAN
+* Load Balancing
 * High Availability
-* Data Center Interconnect (DCI)
+* Disaster Recovery
+* Network Monitoring
+* Capacity Planning
 
-### Cybersecurity
+### Technologies
 
-* Zero Trust
-* SASE / SSE
-* ZTNA
-* CASB
-* SWG
-* NGFW
-* WAF
-* IPS/IDS
+Cisco • Fortinet • F5 • MPLS • BGP • OSPF • Cisco Nexus • Cisco Catalyst • Cisco ACI • Wireshark • SNMP • NetFlow
+
+---
+
+## ☁️ Cloud Engineering
+
+I design and secure modern cloud and hybrid-cloud environments using industry best practices.
+
+### Cloud Platforms
+
+* Amazon Web Services (AWS)
+* Microsoft Azure
+* Google Cloud Platform (GCP)
+
+### Expertise
+
+* VPC / VNet Architecture
+* Identity & Access Management (IAM)
+* Direct Connect
+* ExpressRoute
+* Site-to-Site VPN
+* Cloud Firewalls
+* Cloud Security
+* Hybrid Cloud
+* Multi-Cloud
+* Kubernetes
+* Docker
+* Serverless Computing
+* Infrastructure as Code
+* Cloud Monitoring
+* Cloud Logging
+* Disaster Recovery
+* Cloud Migration
+
+### Technologies
+
+AWS • Azure • GCP • Terraform • Kubernetes • Docker • IAM • CloudWatch • Azure Monitor • Cloud Logging
+
+---
+
+## 🔐 Security Engineering
+
+Cybersecurity is at the core of every solution I design.
+
+### Core Competencies
+
+* Zero Trust Architecture
+* Secure Access Service Edge (SASE)
+* Secure Service Edge (SSE)
+* Zero Trust Network Access (ZTNA)
+* Cloud Access Security Broker (CASB)
+* Secure Web Gateway (SWG)
+* Next-Generation Firewalls (NGFW)
+* Web Application Firewall (WAF)
+* Intrusion Prevention Systems (IPS)
+* Intrusion Detection Systems (IDS)
+* VPN Technologies
+* Network Access Control (NAC)
+* Endpoint Security
 * SIEM
 * SOAR
 * XDR
 * NDR
-* DLP
-* NAC
-* Security Hardening
-* VAPT
+* Identity Threat Detection & Response (ITDR)
+* Data Loss Prevention (DLP)
+* Threat Hunting
 * Incident Response
+* Security Hardening
+* Vulnerability Assessment & Penetration Testing (VAPT)
+* Governance, Risk & Compliance (GRC)
 
-### Cloud & Data Center
+### Security Platforms
 
-* AWS
-* Microsoft Azure
-* Google Cloud Platform (GCP)
-* Hybrid & Multi-Cloud
-* VMware
+Fortinet • Palo Alto • Check Point • Cisco Firepower • F5 BIG-IP • Microsoft Defender • AWS Security Services
+
+---
+
+## ⚙️ Infrastructure & Platform Engineering
+
+* Windows Server
+* Linux Administration
+* Active Directory
+* DNS
+* DHCP
+* VMware vSphere
+* VMware ESXi
 * Hyper-V
 * Docker
 * Kubernetes
 * SAN
 * NAS
+* Fibre Channel
+* iSCSI
 * NetApp Storage
+* Backup & Recovery
 * Disaster Recovery
-* Business Continuity
-
-### Automation & DevSecOps
-
-* Python
-* Ansible
-* Terraform
-* REST APIs
-* Git & GitHub
-* Infrastructure as Code (IaC)
-* CI/CD
-* DevSecOps
 
 ---
 
-# 📂 GitHub Portfolio
+## 🤖 AI & Automation
 
-This GitHub repository showcases my practical work, including:
+I actively explore AI-driven infrastructure management and security.
 
+### Current Focus
+
+* Artificial Intelligence (AI)
+* Generative AI (GenAI)
+* AI Security
+* Prompt Engineering
+* AI Infrastructure
+* AI-assisted Network Operations
+* AI-assisted Security Operations
+* Python Automation
+* Infrastructure Automation
+* Network Automation
+* Security Automation
+
+---
+
+## 📂 GitHub Portfolio
+
+This GitHub profile contains projects, labs, and documentation related to:
+
+* Software Development
 * Enterprise Network Architecture
-* Data Center Design
-* Security Architecture
-* Cloud Infrastructure
-* Infrastructure as Code (Terraform)
-* Ansible Automation
-* Python Network Automation
-* Firewall Configuration Examples
-* SD-WAN & SASE Reference Designs
+* Cloud Architecture
+* Cybersecurity Engineering
+* Infrastructure Automation
+* Python Projects
+* Terraform Modules
+* Ansible Playbooks
+* Kubernetes Deployments
+* DevSecOps Pipelines
 * High-Level Design (HLD)
 * Low-Level Design (LLD)
-* Standard Operating Procedures (SOPs)
-* Migration Plans
-* Disaster Recovery Documentation
-* Network Monitoring & Observability
 * Technical Documentation
-* Best Practices & Lab Projects
+* Disaster Recovery Planning
+* Security Best Practices
+* Network Monitoring & Observability
 
 ---
 
-# 🎯 Mission
+## 🎯 Mission
 
-My mission is to architect, secure, automate, and modernize enterprise IT infrastructure by combining networking, cybersecurity, cloud engineering, AI-driven automation, and modern enterprise architecture to deliver resilient, scalable, secure, and business-aligned technology solutions.
+My goal is to design secure, scalable, and intelligent technology solutions by integrating software engineering, networking, cloud computing, cybersecurity, automation, and AI. I am committed to continuous learning and contributing practical solutions that help organizations modernize their infrastructure and strengthen their security posture.
+
+**Design Securely • Develop Efficiently • Automate Intelligently • Scale Confidently**
