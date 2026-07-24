@@ -1,14 +1,19 @@
 Ravi Kumar Ulchala
-Email id.ravikumar40003@gmail.com 
+
+Email id.ravikumar40003@gmail.com
+
 Hyderabad.
 
 
 Professional Summary: (9+ Years of Experience)
 
 Senior Network & Security Specialist with 9+ years of experience in designing, implementing, and managing enterprise, government, and transportation network infrastructures. Currently working as an L3 Network & Security Engineer on the HMRL Project, managing enterprise network operations, Data Center, SASE, F5 Load Balancers, next-generation firewalls, routing, switching, VPNs, and critical production environments.
+
 Previously contributed to large-scale projects including TGSWAN, TGSCAN, and IGRS, supporting 500+ distributed sites with highly available, secure, and resilient network infrastructures. Hands-on experience with Check Point, Fortinet, Palo Alto, Cisco Firepower, F5 BIG-IP, and Cisco technologies, along with BGP, OSPF, SD-WAN, IPSec/SSL VPN, High Availability (HA), and Data Center networking.
+
 Skilled in firewall management, network security, Zero Trust, WAF, IPS, threat prevention, incident response, infrastructure migration, and L3 troubleshooting. Proven ability to deliver secure, scalable, and high-performance enterprise network solutions while ensuring maximum uptime and operational excellence.
 Certifications: CEH, CCNA, Fortinet Security Certifications, and multiple network and cybersecurity certifications.
+
 Core Skills:
 •
 Firewalls: Palo Alto, Fortinet, Checkpoint, Sophos, Cisco, SonicWall, pfSense
