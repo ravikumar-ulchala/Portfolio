@@ -1,615 +1,312 @@
-# Ravi Kumar Ulchala
+# 👋 Hi, I'm Ravi Kumar Ulchala
 
-## Senior Network & Security Engineer | Security Architect | Cloud & Infrastructure Specialist
+# Experienced Security Engineer | Network & Security Architect | Cloud Networking & Security Specialist | Data Center, SD-WAN & SASE Expert
 
-📍 Hyderabad, Telangana, India
+Welcome to my GitHub portfolio! This repository serves as a central hub showcasing my technical expertise, engineering projects, automation scripts, infrastructure designs, security implementations, cloud architectures, and research in modern enterprise technologies.
 
-📧 ravikumar40003@gmail.com
+With over a decade of experience in **Network Infrastructure, Cyber Security, Cloud Networking, Cloud Security, Server & Storage Infrastructure, Data Center Operations, Enterprise Architecture, and Digital Transformation**, I specialize in designing, implementing, securing, automating, and managing enterprise-scale IT infrastructures across government, telecom, enterprise, and cloud environments.
 
----
-
-# PROFESSIONAL SUMMARY
-
-Senior Network & Security Specialist with over 9 years of experience in designing, implementing, and managing enterprise, government, transportation, and mission-critical IT infrastructures.
-
-Currently working as an L3 Network & Security Engineer for the Hyderabad Metro Rail (HMRL) Project, managing enterprise networks, Data Centers, F5 Load Balancers, Next-Generation Firewalls, VPNs, Routing, Switching, SD-WAN, and cloud-integrated infrastructure.
-
-Previously contributed to large-scale government projects including Telangana State Wide Area Network (TGSWAN), Telangana Secretariat Campus Area Network (TGSCAN), Integrated Grievance Redressal System (IGRS), and State Disaster Recovery Data Center.
-
-Experienced in enterprise architecture, Zero Trust Security, SASE, Network Security, Cloud Security, Infrastructure Automation, Disaster Recovery, High Availability, and Network Optimization.
+My professional experience spans the complete lifecycle of enterprise infrastructure—from planning and architecture to deployment, migration, optimization, automation, security, operations, governance, and business continuity. I am passionate about leveraging emerging technologies such as **Artificial Intelligence (AI), Generative AI (GenAI), Zero Trust, SASE, Cloud-Native Security, Infrastructure as Code (IaC), DevSecOps, and Platform Engineering** to build secure, scalable, resilient, and future-ready digital infrastructures.
 
 ---
 
-# CORE EXPERTISE
+# 🚀 Professional Expertise
 
-• Enterprise Network Architecture
+## Enterprise Network Architecture
 
-• Network Security
+I design and implement highly available, scalable, and secure enterprise network infrastructures, including:
 
-• Cyber Security
-
-• Cloud Security
-
-• Data Center Infrastructure
-
-• SD-WAN
-
-• SASE
-
-• Zero Trust Architecture
-
-• Disaster Recovery
-
-• High Availability
-
-• Routing & Switching
-
-• VPN Technologies
-
-• Infrastructure Migration
-
-• Technical Leadership
-
----
-
-# TECHNICAL SKILLS
-
-## Firewalls
-
-Fortinet
-
-Palo Alto
-
-Check Point
-
-Cisco Firepower
-
-Sophos
-
-Cisco ASA
-
-SonicWall
-
-pfSense
+* Enterprise LAN/WAN Design
+* Campus Network Architecture
+* Data Center Networking
+* Software Defined Networking (SDN)
+* Software Defined Data Center (SDDC)
+* SD-WAN Architecture
+* MPLS Networks
+* IPv4 & IPv6 Deployment
+* Enterprise Routing & Switching
+* BGP, OSPF, EIGRP
+* VRRP, HSRP
+* VXLAN EVPN
+* Network Segmentation
+* Micro-Segmentation
+* Wireless LAN Controllers
+* Enterprise Wi-Fi
+* Load Balancers
+* ADC Technologies
+* Multi-ISP Redundancy
+* High Availability
+* Disaster Recovery Networks
+* Data Center Interconnect (DCI)
 
 ---
 
-## Network Technologies
+# 🔐 Cyber Security Engineering
 
-BGP
+My cybersecurity expertise includes designing layered defense strategies using modern security technologies:
 
-OSPF
-
-EIGRP
-
-MPLS
-
-SD-WAN
-
-VLAN
-
-STP
-
-EtherChannel
-
-VRRP
-
-HSRP
-
-Policy Based Routing
-
-NAT
-
-VPN
-
-QoS
-
-ACL
-
----
-
-## Data Center
-
-Cisco Nexus
-
-Cisco Catalyst
-
-Arista
-
-HP
-
-Dell
-
-Juniper
-
-F5 BIG-IP
-
-Array Load Balancer
-
-High Availability
-
-Disaster Recovery
+* Zero Trust Architecture
+* SASE
+* Secure Service Edge (SSE)
+* ZTNA
+* CASB
+* Secure Web Gateway (SWG)
+* Next Generation Firewalls
+* Web Application Firewall (WAF)
+* IPS / IDS
+* VPN Technologies
+* SSL VPN
+* IPsec VPN
+* Network Access Control (NAC)
+* Endpoint Detection & Response (EDR)
+* Extended Detection & Response (XDR)
+* Network Detection & Response (NDR)
+* Identity Threat Detection & Response (ITDR)
+* Security Information & Event Management (SIEM)
+* Security Orchestration, Automation & Response (SOAR)
+* Data Loss Prevention (DLP)
+* Email Security
+* DNS Security
+* Threat Intelligence
+* Threat Hunting
+* Malware Analysis
+* Incident Response
+* Security Hardening
+* Vulnerability Assessment
+* Penetration Testing (VAPT)
+* Compliance & Security Governance
 
 ---
 
-## Cloud
+# ☁️ Cloud Engineering
 
-Amazon Web Services (AWS)
+I work extensively with public, private, and hybrid cloud infrastructures.
 
-Microsoft Azure
+### Amazon Web Services (AWS)
 
-Cloud Security
+* VPC Design
+* Transit Gateway
+* Direct Connect
+* IAM
+* EC2
+* Load Balancer
+* Route53
+* CloudWatch
+* GuardDuty
+* Security Hub
+* WAF
+* AWS Firewall
+* VPN Gateway
 
-Cloud Networking
+### Microsoft Azure
 
-Hybrid Cloud
+* Azure Virtual Network
+* Azure Firewall
+* Azure VPN Gateway
+* ExpressRoute
+* Azure Monitor
+* Microsoft Defender
+* Azure Active Directory
+* Azure Policy
 
----
+### Google Cloud Platform
 
-## Servers
-
-Windows Server
-
-Linux Server
-
-Active Directory
-
-DNS
-
-DHCP
-
-LDAP
-
-RADIUS
-
-TACACS+
-
-Group Policy
-
----
-
-## Virtualization
-
-VMware
-
-Hyper-V
-
-Citrix
+* VPC Networks
+* Cloud VPN
+* Cloud Router
+* IAM
+* Cloud Armor
+* Cloud Logging
+* Operations Suite
 
 ---
 
-## Monitoring
+# 🏢 Data Center Engineering
 
-SolarWinds
+Specialized experience includes:
 
-Nagios
-
-ManageEngine
-
-Cisco DNAC
-
-OneClick
-
----
-
-## Security Technologies
-
-IPS
-
-IDS
-
-Web Application Firewall
-
-SSL Inspection
-
-Threat Protection
-
-API Security
-
-MFA
-
-FortiToken
-
-Vulnerability Assessment
-
-Penetration Testing
-
-Incident Response
-
-Security Hardening
+* Enterprise Data Center Design
+* Core Switching
+* Spine-Leaf Architecture
+* Storage Area Networks
+* Fibre Channel
+* iSCSI
+* SAN & NAS
+* NetApp Storage
+* Dell EMC Storage
+* VMware Infrastructure
+* Hyper-V
+* Backup Solutions
+* Disaster Recovery
+* Replication
+* Capacity Planning
+* Business Continuity Planning
 
 ---
 
-# PROFESSIONAL EXPERIENCE
+# 🖥️ Server & Virtualization
 
-## L3 Network & Security Engineer
-
-Hyderabad Metro Rail Limited (HMRL)
-
-Alchemy Techsol India Pvt Ltd
-
-June 2026 – Present
-
-### Responsibilities
-
-• Managing enterprise Network & Security Operations
-
-• Data Center Administration
-
-• Cisco Nexus Infrastructure
-
-• Fortinet Firewalls
-
-• Palo Alto Firewalls
-
-• Cisco Firepower
-
-• F5 BIG-IP
-
-• MPLS
-
-• SD-WAN
-
-• BGP
-
-• OSPF
-
-• Disaster Recovery
-
-• Infrastructure Upgrades
-
-• Performance Optimization
-
-• Change Management
-
-• Technical Documentation
-
-• SLA Compliance
+* Windows Server
+* Linux Administration
+* Active Directory
+* DNS
+* DHCP
+* Group Policy
+* File Services
+* VMware vSphere
+* VMware ESXi
+* Hyper-V
+* Docker
+* Kubernetes
+* Container Security
 
 ---
 
-## Network Security Specialist
+# ⚙️ Automation & DevSecOps
 
-Akshara Enterprises India Pvt Ltd
+I strongly believe infrastructure should be automated.
 
-May 2024 – May 2026
+Technologies include:
 
-Projects
-
-• Telangana State Wide Area Network (TGSWAN)
-
-• Telangana Secretariat Campus Area Network (TGSCAN)
-
-• State Disaster Recovery Data Center
-
-### Major Achievements
-
-Designed Multi-ISP WAN Architecture
-
-Managed 500+ Government Sites
-
-Implemented Disaster Recovery Infrastructure
-
-Configured High Availability Firewalls
-
-Managed Check Point
-
-Managed Fortinet
-
-Managed Palo Alto
-
-Managed Cisco Firepower
-
-Designed Enterprise VPN Solutions
-
-Configured BGP
-
-Configured OSPF
-
-Performed Network Optimization
-
-Infrastructure Migration
-
-Vendor Coordination
-
-Government Project Support
+* Python
+* Ansible
+* Terraform
+* Git
+* GitHub
+* REST APIs
+* Infrastructure as Code (IaC)
+* CI/CD Pipelines
+* DevOps
+* DevSecOps
+* Configuration Management
+* Infrastructure Automation
 
 ---
 
-## Network Security Engineer
+# 📊 Monitoring & Observability
 
-V5 Techsol India LLP
-
-October 2022 – May 2024
-
-### Responsibilities
-
-Enterprise Network Design
-
-Data Center Implementation
-
-Cisco Nexus
-
-Aruba
-
-Dell
-
-HP
-
-Cisco Meraki
-
-VMware
-
-Windows Server
-
-Linux Server
-
-Palo Alto
-
-Fortinet
-
-Check Point
-
-Sophos
-
-Cisco ASA
-
-Server Administration
-
-Network Monitoring
-
-VAPT
-
-API Security
-
-Infrastructure Migration
+* Zabbix
+* PRTG
+* SolarWinds
+* Grafana
+* Prometheus
+* ELK Stack
+* Syslog
+* SNMP
+* NetFlow
+* sFlow
+* Cloud Monitoring
+* Performance Analytics
 
 ---
 
-## Contract Engineer
+# 🤖 Artificial Intelligence & Emerging Technologies
 
-Bharat Electronics Limited (BEL)
+Current areas of interest include:
 
-September 2019 – March 2021
-
-Responsibilities
-
-Windows Server
-
-Active Directory
-
-Cisco Switching
-
-Firewall Administration
-
-VPN
-
-Routing
-
-Switching
-
-Network Security
-
-VAPT
-
-Technical Documentation
+* AI Infrastructure
+* Generative AI (GenAI)
+* AI Security
+* LLM Security
+* AI Governance
+* Prompt Engineering
+* Network Automation using AI
+* Security Automation
+* Intelligent Threat Detection
+* Autonomous Infrastructure
+* Cloud AI Services
 
 ---
 
-## Junior Consultant
+# 📂 GitHub Portfolio
 
-Electronics Corporation of India Limited (ECIL)
+This GitHub profile contains practical projects, documentation, and examples related to:
 
-August 2018 – August 2019
+## Network Engineering
 
-Responsibilities
+* Enterprise Network Designs
+* Campus Architecture
+* Data Center Network Topologies
+* Routing & Switching Labs
+* SD-WAN Designs
+* MPLS Configurations
+* EVPN-VXLAN
+* IPv6 Deployments
+* High Availability Solutions
 
-Penetration Testing
+## Security Engineering
 
-Firewall Administration
+* Firewall Configurations
+* Zero Trust Implementations
+* SASE Reference Architectures
+* Security Policies
+* VPN Deployments
+* WAF Configurations
+* IDS/IPS
+* Security Hardening Guides
+* SIEM Use Cases
 
-Cisco Networking
+## Cloud Engineering
 
-LAN
+* AWS Projects
+* Azure Projects
+* GCP Projects
+* Hybrid Cloud Architectures
+* Cloud Security Implementations
+* Infrastructure as Code
+* Multi-Cloud Connectivity
 
-WAN
+## Automation
 
-Security Assessments
+* Python Scripts
+* Ansible Playbooks
+* Terraform Modules
+* API Automation
+* Infrastructure Automation
+* Network Automation
 
-Documentation
+## DevOps & Platform Engineering
 
----
+* Docker Projects
+* Kubernetes Labs
+* CI/CD Pipelines
+* GitHub Actions
+* DevSecOps Examples
 
-## Security Consultant
+## Documentation
 
-Security Brigade InfoSec Pvt Ltd
-
-December 2017 – July 2018
-
-Responsibilities
-
-Web Security
-
-Mobile Security
-
-API Security
-
-Network Security
-
-Server Hardening
-
-Firewall Hardening
-
-Risk Assessment
-
-Security Reporting
-
----
-
-## Security Analyst
-
-Berry9 IT Services Pvt Ltd
-
-January 2016 – November 2017
-
-Responsibilities
-
-Web Application Security
-
-Network Penetration Testing
-
-OWASP Top 10
-
-API Security
-
-Firewall Reviews
-
-Security Documentation
+* High-Level Designs (HLD)
+* Low-Level Designs (LLD)
+* Standard Operating Procedures (SOPs)
+* Architecture Documents
+* Migration Plans
+* Disaster Recovery Plans
+* Technical Runbooks
+* Best Practices
 
 ---
 
-# PROJECTS
+# 🌱 Current Learning
 
-## Hyderabad Metro Rail
+I continuously expand my expertise in:
 
-Enterprise Network Infrastructure
-
-Data Center Operations
-
-Firewall Management
-
-Load Balancer
-
-Network Security
-
----
-
-## Telangana State Wide Area Network
-
-500+ Government Sites
-
-Multi-ISP Architecture
-
-BGP
-
-OSPF
-
-WAN Optimization
-
-Firewall High Availability
+* AI & GenAI Security
+* Platform Engineering
+* Cloud-Native Security
+* Kubernetes Security
+* Service Mesh
+* Secure SD-WAN
+* Zero Trust Architecture
+* Multi-Cloud Networking
+* AI-Powered Security Operations
+* Infrastructure Automation
+* Enterprise Architecture
 
 ---
 
-## TGSCAN
+# 🎯 Career Mission
 
-Campus Area Network
+My mission is to design, secure, automate, and modernize enterprise IT infrastructures that enable organizations to accelerate digital transformation with confidence. By integrating networking, cybersecurity, cloud engineering, automation, AI, and enterprise architecture, I strive to deliver resilient, scalable, and business-aligned technology solutions that meet today's operational needs while preparing for tomorrow's challenges.
 
-Cisco Nexus
+> **"Design Securely. Automate Intelligently. Scale Confidently. Innovate Continuously."**
 
-Government Data Center Connectivity
-
-VPN
-
-Firewall Management
-
-Infrastructure Upgrades
-
----
-
-## State Disaster Recovery Data Center
-
-Disaster Recovery
-
-High Availability
-
-WAF
-
-SSL VPN
-
-IPSec VPN
-
-Threat Protection
-
-Security Monitoring
-
----
-
-# CERTIFICATIONS
-
-Certified Ethical Hacker (CEH)
-
-Cisco Certified Network Associate (CCNA)
-
-Fortinet Security Certifications
-
-Multiple Firewall Security Certifications
-
----
-
-# EDUCATION
-
-M.Tech – VLSI System Design
-
-JNTU Anantapur University
-
----
-
-B.Tech – Electronics & Communication Engineering
-
-JNTU Anantapur University
-
----
-
-Diploma – Electronics & Communication Engineering
-
-GMR Polytechnic College
-
----
-
-# PERSONAL DETAILS
-
-Name
-
-Ravi Kumar Ulchala
-
-Location
-
-Hyderabad, Telangana
-
-Nationality
-
-Indian
-
-Languages
-
-English
-
-Hindi
-
-Telugu
-
----
-
-# CONTACT
-
-Email
-
-ravikumar40003@gmail.com
-
-LinkedIn
-
-(Add your LinkedIn URL)
-
-GitHub
-
-(Add GitHub URL if available)
-
-Resume
-
-Download PDF
-
----
-
-## Career Objective
-
-To leverage my expertise in enterprise networking, cybersecurity, cloud infrastructure, and security architecture to design secure, scalable, and resilient IT environments while contributing to organizational growth through innovation, technical leadership, and continuous learning.
