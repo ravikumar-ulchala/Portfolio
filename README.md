@@ -50,9 +50,8 @@ Vulnerability and Penetration Testing: VAPT, WAPT, MAPT, NPT, API Penetration Te
 
 _L3 Network & Security Engineer_
 
-******Hyderabad Metro Rail Limited (HMRL Project) 
-
-Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad******
+**Hyderabad Metro Rail Limited (HMRL Project) 
+Alchemy Techsol India Pvt. Ltd. June 2026 - Present | Hyderabad**
 
 **Key Responsibilities & Achievements**
 
@@ -112,65 +111,69 @@ Coordinated with OEMs, ISPs, vendors, and government stakeholders for project im
 **TGSCAN (Telangana Secretariat Campus Area Network)**
 
 **Key Responsibilities & Achievements**
-•
+
 Managed Campus Area Network (CAN) and State Data Center connectivity for critical government services.
-•
+
 Administered multi-vendor firewall infrastructure, including policy management, VPNs, IPS, and High Availability.
-•
+
 Managed Data Center network infrastructure based on Cisco Nexus, Juniper, Arista, and HP switching platforms.
-•
+
 Configured VLANs, STP, EtherChannel, ACLs, Inter-VLAN Routing, and network segmentation.
-•
+
 Ensured secure integration of government departments with the State Data Centre.
-•
+
 Conducted firmware upgrades, preventive maintenance, capacity planning, and configuration management.
-•
+
 Improved network scalability, resilience, and performance for high-density enterprise environments.
-State DR Data Center & Security Operations
-Key Responsibilities & Achievements
-•
+
+**State DR Data Center & Security Operations**
+
+**Key Responsibilities & Achievements**
+
 Designed, implemented, and managed Disaster Recovery infrastructure for critical government applications.
-•
+
 Managed High Availability firewall clusters and Data Center security solutions.
-•
+
 Administered enterprise security infrastructure comprising Check Point, Fortinet, Palo Alto, Cisco, and Sophos Firewalls.
-•
+
 Implemented IPSec VPN, SSL VPN, LDAP Authentication, MFA, Digital Certificates, and FortiToken solutions.
-•
+
 Managed Web Application Firewall (WAF), IPS, SSL Inspection, Threat Protection, and API Security technologies.
-•
+
 Performed security event monitoring, incident investigation, log analysis, and Root Cause Analysis using FortiAnalyzer.
-•
+
 Conducted vulnerability remediation, firmware upgrades, security patching, compliance reviews, and DR testing.
-•
+
 Led infrastructure migrations, technical documentation, and change management activities while maintaining 24x7 support operations.
-Network Security Engineer
-V5 Techsol India LLP October 2022 - May 2024 | Hyderabad
-Key Responsibilities & Achievements
-•
+
+**Network Security Engineer**
+**V5 Techsol India LLP October 2022 - May 2024 | Hyderabad
+Key Responsibilities & Achievements**
+
 Designed and deployed enterprise network and cybersecurity solutions for multiple client environments.
-•
+
 Configured and administered Palo Alto, Fortinet, Check Point, Sophos, Cisco ASA, SonicWall, and pfSense Firewalls.
-•
+
 Managed enterprise and Data Center infrastructure using Cisco Nexus 9000, Cisco Catalyst, Aruba, Dell, HP, and Arista platforms.
-•
+
 Implemented Cisco Meraki MX, MS, and MR solutions with centralized cloud management.
-•
+
 Successfully executed enterprise network and Data Center migration projects with minimal downtime.
-•
+
 Administered Active Directory, Windows Server, Linux Server, DNS, DHCP, RADIUS, TACACS+, and Group Policy.
-•
+
 Managed VMware vSphere, Hyper-V, Citrix virtualization, and enterprise storage platforms.
-•
+
 Conducted network optimization, capacity planning, and monitoring using SolarWinds, Nagios, ManageEngine, OneClick, and Cisco DNAC.
-•
+
 Performed VAPT, WAPT, MAPT, API Security Testing, server hardening, and firewall security assessments.
-•
+
 Collaborated with customers, OEMs, and technical teams to deliver scalable and secure IT infrastructure solutions.
-Contract Engineer
+
+**Contract Engineer
 Bharat Electronics Limited (BEL) September 2019 - March 2021 | Hyderabad
-Key Responsibilities & Achievements
-•
+Key Responsibilities & Achievements**
+
 Administered Windows Server, Active Directory, DNS, DHCP, and enterprise LAN services.
 •
 Configured and managed Fortinet, Palo Alto, Check Point, Sophos, and Cisco security platforms.
