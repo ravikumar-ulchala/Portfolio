@@ -15,11 +15,11 @@ Skilled in firewall management, network security, Zero Trust, WAF, IPS, threat p
 Certifications: CEH, CCNA, Fortinet Security Certifications, and multiple network and cybersecurity certifications.
 
 Core Skills:
-•
+
 Firewalls: Palo Alto, Fortinet, Checkpoint, Sophos, Cisco, SonicWall, pfSense
-•
+
 SASE: Netskope, Zscaler and SDWAN
-•
+
 Server Administration: Windows Server, Linux Server, Active Directory, DNS
 •
 Switches and Routers: Cisco, Aruba, HP, Dell, Arista, Cisco Nexus, Meraki switches
